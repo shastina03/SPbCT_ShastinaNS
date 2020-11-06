@@ -15,7 +15,7 @@ public:
 void file()
     {
     
-        ofstream files("raspis.txt");
+        ofstream files("raspis.txt" );
         if (!files.is_open())
             cout << "Нет файла";
         files << den << " ";
