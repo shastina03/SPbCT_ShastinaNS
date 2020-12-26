@@ -1,0 +1,11 @@
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxprojAssemblyReference.cache
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm.resources
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm1.resources
+C:\Users\bulyn\Desktop\SPbCT_BulyninMA\EducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxproj.GenerateResource.cache
+D:\ОляEducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxprojAssemblyReference.cache
+D:\ОляEducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm.resources
+D:\ОляEducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm1.resources
+D:\ОляEducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxproj.GenerateResource.cache
+D:\НаташаEducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxprojAssemblyReference.cache
+D:\НаташаEducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.MyForm.resources
+D:\НаташаEducationalPractice\EducationalPractice\x64\Debug\EducationalPractice.vcxproj.GenerateResource.cache
